@@ -1,0 +1,28 @@
+#result {
+    display: none;
+    background-color: whitesmoke;
+    width:80%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.resultDesc {
+    font-size: 20px;
+}
+
+.resultname {
+    font-size: 26px;
+}
+
+.kakao {
+    color : white;
+    background-color : #FEE500;
+    font-size: 20px;
+    border:0px; /*겉에 검정색 테두리 선 없애기*/
+    border-radius: 20px;
+}
+
+.kakao:hover, .kakao:focus {
+    background-color: whitesmoke;
+    color: #FEE500;
+}
